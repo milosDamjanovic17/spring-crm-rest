@@ -1,0 +1,22 @@
+
+
+
+
+###########################################################################################################################
+
+
+Http Method					 				CRUD Action
+
+1) POST   | /api/customers 				| Create a new customer
+2) GET    | /api/customers 				| Read a list of all customers
+3) GET    | /api/customers/{customerId} | Read a single customer
+4) PUT    | /api/customers				| Update an existing customer
+5) DELETE | /api/customers/{customerId} | Delete a single customer
+
+
+
+
+
+
+
+
